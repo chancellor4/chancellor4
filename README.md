@@ -2,10 +2,6 @@
 
 *App developer crafting modern web applications & open-source tools — portfolio, projects, and writings for thoughtful people who love beautiful, useful software.*
 
-## About
-
-I build intuitive, reliable web experiences that make people’s lives easier. I care about minimal design aestetics, safe architectures, and overall, code that is easy to maintain.
-
 ## Featured work
 
 * **Modern web apps** — responsive, high performance applications with attention to UX and real user needs.
