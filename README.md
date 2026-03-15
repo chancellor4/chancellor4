@@ -24,4 +24,4 @@ JavaScript · TypeScript · React · Node.js · REST / GraphQL · HTML & CSS · 
 * 🌐 [Website](https://chancelloredwards.dev)
 * ✍️ [Writing](https://medium.com/@Chancelloredwards)
 
-Portfolio & writing by Edwards — thanks for visiting. If you’re a maker, designer, or builder in tech, I’d love to hear about your project.
+— thanks for visiting. If you’re a maker, designer, or builder in tech, I’d love to hear about your project.
